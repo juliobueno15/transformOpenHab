@@ -1,0 +1,25 @@
+{
+    "timeZone": "America/Argentina/Buenos_Aires",
+    "dependencies": {
+      "libraries": [{
+        "userSymbol": "FirebaseApp",
+        "libraryId": "1hguuh4Zx72XVC1Zldm_vTtcUUKUA6iBUOoGnJUWLfqDWx5WlOJHqYkrt",
+        "version": "30"
+      }]
+    },
+    "exceptionLogging": "STACKDRIVER",
+    "runtimeVersion": "V8",
+    "dataStudio": {
+      "name": "SSC0721",
+      "logoUrl": "https://raw.githubusercontent.com/npm/logos/master/npm%20square/n-64.png",
+      "company": "Carlos Julio João",
+      "companyUrl": "https://developers.google.com/datastudio/",
+      "addonUrl": "https://github.com/googledatastudio/community-connectors/tree/master/npm-downloads#readme",
+      "supportUrl": "https://github.com/googledatastudio/community-connectors/issues",
+      "description": "DataSource para a disciplina de SSC0721",
+      "sources": ["npm"],
+      "templates": {
+        "default": "1twu0sHjqR5dELAPyGJcw4GS3-D0_NTrQ"
+      }
+    }
+  }
